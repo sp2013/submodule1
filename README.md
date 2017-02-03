@@ -6,3 +6,5 @@ Edited this file from testgit/submodule1
 Edited from testgits
 
 Again edited from testgits
+
+Edited from testgit/submodule1
